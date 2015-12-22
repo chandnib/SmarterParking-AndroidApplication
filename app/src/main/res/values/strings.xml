@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SmarterPark</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_map_grid">MapGridActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_fragment_list_grid">fragment_list_grid</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="title_activity_display_list">DisplayListActivity</string>
+    <string name="title_activity_display_list1">displayListActivity1</string>
+</resources>
